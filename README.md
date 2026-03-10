@@ -39,8 +39,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhmmadqasimm/)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qasiim2.0/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white)](https://www.instagram.com/qasiim2.0/)
 </div>
 
 <div align="center">
