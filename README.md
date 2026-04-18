@@ -20,17 +20,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux,nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Qassimm&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff)
-
-</div>
 
 ---
 
